@@ -10,18 +10,21 @@ Poll form is helps us to get opinions from user.
 
 1. ExpressJS
 2. Keycloak[Account & Role Management]
+3. Mongoose[MongoDB ODM]
 
 ### Prerequisites
 
 1. NodeJS
 2. NPM
 3. Keycloak
+4. MongoDB
 
 ### Setting up Dev
 
 ```git clone https://github.com/parikshak/quizapp-backend.git```<br />
 ```cd quizapp-backend```<br />
 ```npm install```<br />
+```sudo service mongod restart```<br />
 ```npm run start```
 
 #### Building
