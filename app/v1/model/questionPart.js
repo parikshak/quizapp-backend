@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 var dbConnection = require('./services/dbConnection');
 
-var db = db_tools.getDBConnection();
+var db = dbConnection.getDBConnection();
 
 var QuestionPartSchema = new mongoose.Schema({
   title: String,
