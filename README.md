@@ -27,10 +27,6 @@ Poll form is helps us to get opinions from user.
 ```sudo service mongod restart```<br />
 ```npm run start```
 
-#### Building
-
-`npm run build`
-
 #### Deploying / Publishing
 
 `work on progress`
