@@ -1,0 +1,11 @@
+{
+  "realm": "demo-realm",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArnByvBs2yaFVAxbPp5KqChUN3lcMs9wIltZXkf9xj7X4zhTz5JI5IMqFZmdID2j9Qp8kgMQ45k4/SbVr1c7LXwEY+gOMGtOBy0yCWwmtkfZp57EIfbuHSd/hNU0qNEjME9AH06Uq4MQPPUPwb5lMflupgdwpKhxXH0c8FL8SpeqIkMtQqA94hb5WqsrnRmQYvwJPJwnDHXb3nzhkFF1JUv9/Ad1hkpovbuakjYXuj6ToR5adlLgg+4QzZOX/c9JrXAeEXcJem1x3tH4+tkmbcpQoT4eax4enD6eAF/IEfkjvsR+3SZuxLayy7kVf/t0Qwq2gBBORJjRDnFFUYv/DEQIDAQAB",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "none",
+  "resource": "quiz",
+  "bearer-only" : true,
+  "credentials": {
+    "secret": "d03ef48d-4ea8-432d-8d14-d4e2ba272f42"
+  }
+}
